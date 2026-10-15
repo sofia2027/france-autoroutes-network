@@ -1,0 +1,514 @@
+ref,year,from_name,from_lat,from_lon,to_name,to_lat,to_lon,confidence
+A1,1954,Lille (Lesquin),50.6,3.09,Carvin,50.49,2.95,wiki
+A1,1958,Carvin,50.49,2.95,Fresnes-lès-Montauban,50.34,2.93,wiki
+A1,1967,Fresnes-lès-Montauban,50.34,2.93,Bapaume,50.1,2.85,wiki
+A1,1966,Bapaume,50.1,2.85,Roye,49.7,2.79,wiki
+A1,1965,Roye,49.7,2.79,Senlis,49.21,2.57,wiki
+A1,1964,Senlis,49.21,2.57,Le Bourget,48.95,2.43,wiki
+A1,1965,Le Bourget,48.95,2.43,Saint-Denis,48.925,2.355,wiki
+A1,1965,Saint-Denis,48.925,2.355,Porte de la Chapelle,48.898,2.36,wiki
+A6,1960,Paris Porte d'Orléans,48.823,2.325,Le Coudray-Montceaux,48.575,2.485,wiki
+A6,1964,Le Coudray-Montceaux,48.575,2.485,Ury,48.36,2.6,wiki
+A6,1965,Ury,48.36,2.6,Nemours,48.27,2.7,wiki
+A6,1967,Nemours,48.27,2.7,Auxerre-Nord,47.85,3.56,wiki
+A6,1965,Auxerre-Nord,47.85,3.56,Auxerre-Sud,47.735,3.575,wiki
+A6,1963,Auxerre-Sud,47.735,3.575,Nitry,47.65,3.77,wiki
+A6,1964,Nitry,47.65,3.77,Avallon,47.49,3.91,wiki
+A6,1969,Avallon,47.49,3.91,Pouilly-en-Auxois,47.265,4.55,wiki
+A6,1970,Pouilly-en-Auxois,47.265,4.55,Mâcon-Nord,46.345,4.81,wiki
+A6,1969,Mâcon-Nord,46.345,4.81,Villefranche-sur-Saône (Arnas),46.015,4.71,wiki
+A6,1966,Villefranche-sur-Saône (Arnas),46.015,4.71,Anse,45.94,4.72,wiki
+A6,1969,Anse,45.94,4.72,Limonest,45.845,4.78,wiki
+A6,1969,Paris Porte d'Italie,48.819,2.362,Arcueil,48.8,2.335,wiki
+A6,1970,Arcueil,48.8,2.335,Chevilly-Larue,48.765,2.35,wiki
+A6,1972,Chevilly-Larue,48.765,2.35,Wissous,48.735,2.32,wiki
+A11,1972,Saint-Arnoult-en-Yvelines,48.57,1.93,Chartres,48.44,1.5,wiki
+A11,1966,Chartres,48.44,1.5,Thivars,48.38,1.46,wiki
+A11,1975,Thivars,48.38,1.46,La Ferté-Bernard,48.19,0.65,wiki
+A11,1978,La Ferté-Bernard,48.19,0.65,Le Mans Ouest,47.99,0.13,wiki
+A11,1989,Le Mans Ouest,47.99,0.13,Sablé/La Flèche,47.78,-0.14,wiki
+A11,1988,Sablé/La Flèche,47.78,-0.14,Durtal,47.67,-0.23,wiki
+A11,1987,Durtal,47.67,-0.23,Angers-Nord (Écouflant),47.55,-0.52,wiki
+A11,2008,Angers-Nord (Écouflant),47.55,-0.52,Angers-Ouest (Beaucouzé),47.48,-0.64,wiki
+A11,1981,Angers-Ouest (Beaucouzé),47.48,-0.64,Carquefou,47.3,-1.49,wiki
+A11,1993,Carquefou,47.3,-1.49,Nantes (périphérique),47.245,-1.5,wiki
+A13,1974,Paris Porte d'Auteuil,48.845,2.257,Pont de Saint-Cloud,48.845,2.222,wiki
+A13,1946,Pont de Saint-Cloud,48.845,2.222,Vaucresson,48.84,2.15,wiki
+A13,1941,Vaucresson,48.84,2.15,Orgeval,48.905,1.995,wiki
+A13,1956,Orgeval,48.905,1.995,Mantes-la-Jolie,48.98,1.7,knowledge
+A13,1965,Mantes-la-Jolie,48.98,1.7,Rouen (Les Essarts),49.34,1.02,knowledge
+A13,1970,Rouen (Les Essarts),49.34,1.02,Bourg-Achard,49.35,0.81,knowledge
+A13,1972,Bourg-Achard,49.35,0.81,Pont-Audemer,49.35,0.51,knowledge
+A13,1976,Pont-Audemer,49.35,0.51,Pont-l'Évêque,49.285,0.19,knowledge
+A13,1978,Pont-l'Évêque,49.285,0.19,Caen,49.19,-0.32,knowledge
+A16,1994,A16 origin (Domont/Montsoult),49.04,2.31,Beauvais,49.43,2.08,wiki
+A16,1994,Beauvais,49.43,2.08,Breteuil,49.63,2.3,wiki
+A16,1994,Breteuil,49.63,2.3,Amiens-Sud,49.845,2.32,wiki
+A16,1995,Amiens-Sud,49.845,2.32,Amiens-Nord,49.95,2.26,wiki
+A16,1997,Amiens-Nord,49.95,2.26,Abbeville,50.1,1.83,wiki
+A16,1998,Abbeville,50.1,1.83,Boulogne-sur-Mer,50.7,1.62,wiki
+A16,1993,Boulogne-sur-Mer,50.7,1.62,Calais,50.93,1.87,wiki
+A16,1993,Calais,50.93,1.87,Dunkerque (Grande-Synthe),51.01,2.31,wiki
+A16,1997,Dunkerque (Grande-Synthe),51.01,2.31,Belgian border (Ghyvelde),51.07,2.55,wiki
+A19,1993,Sens (A5 junction),48.18,3.34,Sens (RN 6),48.185,3.27,wiki
+A19,1997,Sens (RN 6),48.185,3.27,Courtenay,48.04,3.06,wiki
+A19,2009,Courtenay,48.04,3.06,Artenay,48.08,1.9,wiki
+A20,1979,Vierzon-Est (A71),47.21,2.12,Vierzon-Ouest,47.225,2.0,knowledge
+A20,1992,Vierzon-Ouest,47.225,2.0,Vatan,47.075,1.81,wiki
+A20,1986,Vatan,47.075,1.81,Châteauroux,46.83,1.68,knowledge
+A20,1988,Châteauroux,46.83,1.68,Argenton-sur-Creuse,46.59,1.52,knowledge
+A20,1990,Argenton-sur-Creuse,46.59,1.52,Bessines-sur-Gartempe,46.108,1.373,knowledge
+A20,1989,Bessines-sur-Gartempe,46.108,1.373,Limoges-Nord,45.89,1.25,knowledge
+A20,1985,Limoges-Nord,45.89,1.25,Pierre-Buffière,45.68,1.36,knowledge
+A20,1991,Pierre-Buffière,45.68,1.36,Donzenac,45.22,1.52,knowledge
+A20,1987,Donzenac,45.22,1.52,Brive-la-Gaillarde,45.15,1.53,wiki
+A20,1994,Brive-la-Gaillarde,45.15,1.53,Souillac,44.89,1.48,knowledge
+A20,2001,Souillac,44.89,1.48,Francoulès,44.51,1.45,wiki
+A20,2003,Francoulès,44.51,1.45,Lalbenque,44.34,1.55,wiki
+A20,1998,Lalbenque,44.34,1.55,Montauban-Nord,44.07,1.38,wiki
+A20,1992,Montauban-Nord,44.07,1.38,Montauban-Sud,44.0,1.35,wiki
+A20,1996,Montauban-Sud,44.0,1.35,A62 junction (Montauban),43.985,1.3,wiki
+A21,1971,Hénin-Beaumont (A1),50.42,2.96,Lens-Est,50.44,2.85,wiki
+A21,1976,Lens-Est,50.44,2.85,Lens-Ouest,50.435,2.79,knowledge
+A21,1978,Lens-Ouest,50.435,2.79,Bully-les-Mines,50.43,2.725,knowledge
+A21,1997,Hénin-Beaumont (A1),50.42,2.96,Douai (Auby),50.39,3.06,knowledge
+A21,2009,Douai (Auby),50.39,3.06,Douchy-les-Mines (A2),50.3,3.38,wiki
+A29,1995,Beuzeville (A13),49.33,0.3,Honfleur (Pont de Normandie),49.405,0.25,knowledge
+A29,1995,Honfleur (Pont de Normandie),49.405,0.25,Le Havre (Pont de Normandie nord),49.435,0.265,knowledge
+A29,1995,Le Havre (Pont de Normandie nord),49.435,0.265,Saint-Romain-de-Colbosc,49.52,0.36,knowledge
+A29,1989,Saint-Romain-de-Colbosc,49.52,0.36,Yvetot,49.62,0.77,knowledge
+A29,1992,Yvetot,49.62,0.77,Neufchâtel-en-Bray,49.73,1.44,knowledge
+A29,1993,Neufchâtel-en-Bray,49.73,1.44,Amiens-Ouest (Saleux),49.86,2.25,knowledge
+A29,1992,Amiens-Ouest (Saleux),49.86,2.25,Longueau,49.87,2.36,knowledge
+A29,1991,Longueau,49.87,2.36,Péronne,49.93,2.93,knowledge
+A29,1992,Péronne,49.93,2.93,Saint-Quentin,49.85,3.28,knowledge
+A30,1991,Richemont (A31),49.295,6.17,Hayange,49.33,6.06,knowledge
+A30,1993,Hayange,49.33,6.06,Aumetz,49.37,5.94,knowledge
+A38,1973,Pouilly-en-Auxois (A6),47.265,4.55,Dijon,47.332,4.99,wiki
+A39,1992,Dijon,47.27,5.05,Crimolois,47.27,5.13,wiki
+A39,1994,Crimolois,47.27,5.13,Dole,47.09,5.49,wiki
+A39,1998,Dole,47.09,5.49,Bourg-en-Bresse,46.19,5.32,wiki
+A47,1991,Saint-Chamond-Ouest,45.46,4.47,Saint-Chamond (La Bachasse),45.48,4.52,wiki
+A47,1964,Saint-Chamond (La Bachasse),45.48,4.52,Rive-de-Gier,45.525,4.61,wiki
+A47,1970,Rive-de-Gier,45.525,4.61,Givors,45.59,4.77,wiki
+A47,1983,Givors,45.59,4.77,Chasse-sur-Rhône (A7),45.57,4.81,wiki
+A54,1990,Nîmes (A9),43.79,4.35,Arles,43.68,4.63,wiki
+A54,1996,Saint-Martin-de-Crau,43.64,4.81,Salon-de-Provence (Ouest),43.64,5.04,wiki
+A54,1970,Salon-de-Provence (Ouest),43.64,5.04,Salon-de-Provence (A7),43.62,5.1,wiki
+A61,1972,Toulouse-Nord,43.68,1.46,Toulouse (Palays),43.575,1.495,knowledge
+A61,1971,Toulouse (Palays),43.575,1.495,Villefranche-de-Lauragais,43.39,1.71,knowledge
+A61,1972,Villefranche-de-Lauragais,43.39,1.71,Castelnaudary,43.315,1.94,knowledge
+A61,1974,Castelnaudary,43.315,1.94,Carcassonne-Ouest,43.21,2.28,knowledge
+A61,1976,Carcassonne-Ouest,43.21,2.28,Lézignan-Corbières,43.195,2.75,knowledge
+A61,1978,Lézignan-Corbières,43.195,2.75,Narbonne (A9),43.17,3.03,wiki
+A62,1975,Saint-Selve,44.67,-0.5,Langon,44.545,-0.24,wiki
+A62,1978,Langon,44.545,-0.24,Marmande,44.5,0.17,knowledge
+A62,1980,Marmande,44.5,0.17,Agen,44.2,0.64,knowledge
+A62,1988,Agen,44.2,0.64,Montauban,44.02,1.33,knowledge
+A62,1977,Montauban,44.02,1.33,Toulouse-Nord,43.69,1.45,knowledge
+A63,1982,Bordeaux (rocade),44.79,-0.62,Salles,44.55,-0.87,knowledge
+A63,2013,Salles,44.55,-0.87,Saint-Geours-de-Maremne,43.67,-1.31,wiki
+A63,1983,Saint-Geours-de-Maremne,43.67,-1.31,Bayonne (Mousserolles),43.51,-1.47,knowledge
+A63,1978,Bayonne (Mousserolles),43.51,-1.47,Saint-Jean-de-Luz-Nord,43.43,-1.61,knowledge
+A63,1972,Saint-Jean-de-Luz-Nord,43.43,-1.61,Saint-Jean-de-Luz-Sud,43.385,-1.67,wiki
+A63,1976,Saint-Jean-de-Luz-Sud,43.385,-1.67,Biriatou,43.35,-1.77,knowledge
+A65,2010,Langon (A62),44.54,-0.25,Pau,43.32,-0.32,wiki
+A82,1976,Nantes (périphérique),47.2,-1.61,Bouguenais (RN 165),47.17,-1.69,knowledge
+A115,1990,Sannois (A15),48.97,2.24,Beauchamp,49.01,2.2,knowledge
+A115,2000,Beauchamp,49.01,2.2,Bessancourt,49.04,2.2,wiki
+A115,2004,Bessancourt,49.04,2.2,Méry-sur-Oise,49.06,2.185,wiki
+A151,1993,A150 junction (Malaunay),49.52,1.02,A29 junction (Rouen-Nord),49.61,1.11,knowledge
+A311,1974,Dijon (A31),47.275,5.015,Dijon (Longvic/Fénay),47.285,5.075,wiki
+A404,1997,Saint-Martin-du-Frêne (A40),46.17,5.6,Arbent,46.285,5.66,wiki
+A411,1973,Gaillard (Swiss border),46.195,6.205,Gaillard (A40),46.185,6.235,wiki
+A623,1982,Toulouse (Palays),43.58,1.48,Ramonville-Saint-Agne,43.545,1.475,knowledge
+A624,1988,Toulouse (Purpan),43.61,1.395,Colomiers,43.61,1.33,wiki
+A645,2004,A64 junction (Montréjeau),43.115,0.585,Montréjeau (RN 125),43.075,0.585,wiki
+A660,1979,Salles (A63),44.55,-0.87,La Teste-de-Buch (Bisserié),44.62,-1.12,wiki
+A750,1996,Ceyras (A75),43.64,3.39,Gignac,43.65,3.55,knowledge
+A750,2003,Gignac,43.65,3.55,Mas-de-Ratte,43.68,3.6,knowledge
+A750,2010,Mas-de-Ratte,43.68,3.6,Mas-d'Alhen,43.69,3.64,wiki
+A750,1989,Mas-d'Alhen,43.69,3.64,Grabels,43.65,3.8,knowledge
+A811,1980,Carquefou (Vieilleville),47.28,-1.455,Nantes (Porte d'Anjou),47.25,-1.5,wiki
+A2,1972,A1 (Combles),50.013,2.879,Belgian border (Hensies),50.437,3.662,wiki
+A3,1969,Porte de Bagnolet,48.866,2.412,Rosny-sous-Bois,48.886,2.473,wiki
+A3,1974,Rosny-sous-Bois,48.886,2.473,Aulnay-sous-Bois,48.934,2.481,wiki
+A3,1980,Aulnay-sous-Bois,48.934,2.481,Gonesse (A170),48.981,2.499,wiki
+A3,1991,Gonesse (A170),48.981,2.499,Roissy-en-France,48.992,2.513,wiki
+A10,1960,Wissous (A6),48.74,2.32,Massy,48.72,2.257,wiki
+A10,1970,Massy,48.72,2.257,Palaiseau,48.706,2.25,wiki
+A10,1973,Palaiseau,48.706,2.25,Les Ulis,48.67,2.194,wiki
+A10,1973,Les Ulis,48.67,2.194,Orléans (A71),47.93,1.85,wiki
+A10,1974,Orléans (A71),47.93,1.85,Parçay-Meslay,47.454,0.753,wiki
+A10,1972,Parçay-Meslay,47.454,0.753,Tours centre,47.397,0.708,wiki
+A10,1968,Tours centre,47.397,0.708,Tours Rives du Cher,47.378,0.714,wiki
+A10,1970,Tours Rives du Cher,47.378,0.714,Chambray-lès-Tours,47.329,0.693,wiki
+A10,1977,Chambray-lès-Tours,47.329,0.693,Poitiers nord,46.682,0.361,wiki
+A10,1970,Poitiers nord,46.682,0.361,Poitiers sud,46.552,0.28,wiki
+A10,1980,Poitiers sud,46.552,0.28,Saintes,45.735,-0.665,wiki
+A10,1981,Saintes,45.735,-0.665,Saint-André-de-Cubzac,45.0,-0.427,wiki
+A10,1974,Saint-André-de-Cubzac,45.0,-0.427,Ambarès-et-Lagrave,44.924,-0.473,wiki
+A10,1967,Ambarès-et-Lagrave,44.924,-0.473,Lormont,44.885,-0.509,wiki
+A12,1950,Rocquencourt (A13),48.841,2.103,Bois-d'Arcy,48.783,2.032,wiki
+A22,1970,Lesquin (A1),50.6,3.11,Marcq-en-Barœul (RN 227),50.649,3.145,wiki
+A22,1972,Marcq-en-Barœul,50.649,3.145,Belgian border (Neuville-en-Ferrain),50.765,3.169,wiki
+A25,1963,Lille (A1),50.614,3.086,Dunkerque (A16),50.949,2.431,wiki
+A31,1970,Beaune (A6),47.017,4.869,Dijon,47.248,5.057,knowledge
+A31,1988,Dijon,47.248,5.057,Langres,47.854,5.228,knowledge
+A31,1989,Langres,47.854,5.228,Neufchâteau,48.341,5.853,knowledge
+A31,1990,Neufchâteau,48.341,5.853,Toul,48.656,5.891,knowledge
+A31,1971,Toul,48.656,5.891,Nancy,48.695,6.11,knowledge
+A31,1970,Nancy,48.695,6.11,Metz,49.112,6.159,knowledge
+A31,1966,Metz,49.112,6.159,Thionville,49.35,6.15,knowledge
+A31,1976,Thionville,49.35,6.15,Luxembourg border (Zoufftgen),49.47,6.121,knowledge
+A33,1972,Nancy (A31),48.642,6.165,Rosières-aux-Salines,48.605,6.375,wiki
+A46,1992,Anse (A6),45.94,4.723,Neuville-sur-Saône,45.903,4.824,wiki
+A46,1992,Neuville-sur-Saône,45.903,4.824,Les Échets (A42),45.876,4.903,wiki
+A46,1992,Les Échets (A42),45.876,4.903,Vaulx-en-Velin / Décines,45.805,4.925,wiki
+A46,1992,Vaulx-en-Velin / Décines,45.805,4.925,Mions (A43),45.703,4.966,wiki
+A46,1992,Mions (A43),45.703,4.966,Chasse-sur-Rhône (A7),45.589,4.803,wiki
+A49,1991,Voreppe (A48),45.291,5.62,Tullins,45.288,5.526,wiki
+A49,1992,Tullins,45.288,5.526,Bourg-de-Péage,45.019,5.031,wiki
+A55,1972,Martigues (Lavéra),43.41,5.034,Martigues-Est,43.4,5.097,wiki
+A55,1975,Martigues-Est,43.4,5.097,Marseille (A7 jct),43.37,5.323,wiki
+A55,1989,Marseille (A7 jct),43.37,5.323,Marseille La Joliette,43.309,5.367,wiki
+A66,2002,Villefranche-de-Lauragais (A61),43.413,1.652,Pamiers,43.13,1.628,wiki
+A85,1997,Corzé (A11),47.539,-0.337,Bourgueil,47.257,0.171,wiki
+A85,2007,Bourgueil,47.257,0.171,Langeais,47.346,0.401,wiki
+A85,2003,Langeais,47.346,0.401,Druye,47.317,0.502,wiki
+A85,2007,Druye,47.317,0.502,Saint-Aignan-sur-Cher,47.301,1.337,wiki
+A85,2003,Saint-Aignan-sur-Cher,47.301,1.337,Villefranche-sur-Cher,47.322,1.749,wiki
+A85,2001,Villefranche-sur-Cher,47.322,1.749,Theillay (A71),47.288,2.043,wiki
+A88,2007,Sées (A28),48.633,0.19,Argentan-Sud,48.72,-0.057,wiki
+A88,2010,Argentan-Sud,48.72,-0.057,Falaise,48.889,-0.22,wiki
+A103,1969,Rosny-sous-Bois (A3),48.887,2.474,Villemomble,48.883,2.495,knowledge
+A106,1960,A6 (Rungis),48.77,2.345,Orly,48.737,2.364,wiki
+A131,1974,A13 (Bourneville),49.379,0.615,Tancarville,49.485,0.44,wiki
+A131,1974,Tancarville,49.485,0.44,Le Havre (Harfleur),49.498,0.225,knowledge
+A140,2006,A4 (Meaux-Ouest),48.879,2.884,Meaux,48.941,2.848,wiki
+A150,1973,Rouen (Déville-lès-Rouen),49.457,1.049,Barentin,49.549,0.921,wiki
+A150,2015,Barentin,49.549,0.921,Yvetot (A29),49.646,0.771,wiki
+A314,1971,Metz-Queuleu,49.121,6.221,Metz-Borny,49.129,6.263,wiki
+A330,1977,Nancy (Jarville),48.662,6.188,Flavigny-sur-Moselle,48.576,6.175,knowledge
+A344,1975,Reims-Tinqueux,49.249,3.956,Reims centre,49.244,4.03,wiki
+A344,1976,Reims centre,49.244,4.03,Cormontreuil,49.219,4.071,wiki
+A352,1995,Duppigheim,48.521,7.59,Molsheim (Dachstein),48.52,7.497,knowledge
+A391,1998,A39 (Poligny),46.842,5.621,Poligny (RN 83),46.849,5.574,wiki
+A480,1967,Saint-Égrève (A48),45.219,5.675,Grenoble Eaux-Claires,45.203,5.694,wiki
+A480,1982,Grenoble Eaux-Claires,45.203,5.694,Varces,45.112,5.682,wiki
+A500,1992,A8 (La Turbie),43.745,7.368,Monaco,43.733,7.389,wiki
+A502,1980,A50 (Aubagne),43.284,5.574,Aubagne-Est,43.284,5.592,knowledge
+A507,1985,Frais-Vallon,43.322,5.423,Saint-Jérôme,43.345,5.425,wiki
+A507,2016,Frais-Vallon,43.322,5.423,Marseille Florian (A50),43.286,5.432,wiki
+A507,2018,Marseille Arnavaux (A7),43.342,5.376,Saint-Jérôme,43.345,5.425,wiki
+A515,1990,Plan-de-Campagne,43.428,5.385,Les Pennes-Mirabeau,43.429,5.408,knowledge
+A570,1987,A57 (Toulon-Est),43.148,6.033,La Garde,43.133,6.057,wiki
+A570,1989,La Garde,43.133,6.057,La Moutonne,43.128,6.075,wiki
+A570,1990,La Moutonne,43.128,6.075,Hyères,43.115,6.116,wiki
+A630,1967,Lormont (A10),44.885,-0.509,Bordeaux-Lac (Pont d Aquitaine),44.88,-0.54,knowledge
+A630,1973,Bordeaux-Lac,44.88,-0.54,Mérignac,44.832,-0.676,knowledge
+A630,1977,Mérignac,44.832,-0.676,Pessac (A63),44.789,-0.622,knowledge
+A630,1982,Pessac (A63),44.789,-0.622,Bègles (A62),44.801,-0.535,knowledge
+A709,1970,Saint-Brès,43.675,4.024,Montpellier-Sud,43.576,3.879,knowledge
+A709,1975,Montpellier-Sud,43.576,3.879,Fabrègues,43.556,3.824,knowledge
+A714,1989,A71 (Commentry),46.395,2.715,Montluçon,46.379,2.61,knowledge
+A837,1997,Saintes (A10),45.787,-0.666,Rochefort,45.957,-0.933,wiki
+A4,1974,Paris Porte de Bercy,48.824,2.395,Saint-Maurice,48.818,2.44,wiki
+A4,1974,Saint-Maurice,48.818,2.44,Joinville-le-Pont,48.828,2.473,wiki
+A4,1976,Joinville-le-Pont,48.828,2.473,Coutevroult,48.867,2.852,wiki
+A4,1975,Coutevroult,48.867,2.852,Bouleurs,48.901,2.928,wiki
+A4,1976,Bouleurs,48.901,2.928,Château-Thierry,49.078,3.391,wiki
+A4,1975,Château-Thierry,49.078,3.391,Tinqueux (Reims-ouest),49.242,3.967,wiki
+A4,2010,Tinqueux (Reims-ouest),49.242,3.967,Taissy (Reims-sud),49.205,4.09,wiki
+A4,1976,Taissy (Reims-sud),49.205,4.09,Les Islettes,49.098,5.021,wiki
+A4,1975,Les Islettes,49.098,5.021,Metz-ouest (A31),49.181,6.063,wiki
+A4,1976,Metz-ouest (A31),49.181,6.063,Metz-est,49.129,6.255,wiki
+A4,1971,Metz-est,49.129,6.255,Saint-Avold (Merlebach),49.134,6.776,wiki
+A4,1976,Saint-Avold (Merlebach),49.134,6.776,Mundolsheim,48.65,7.735,wiki
+A8,1972,La Fare-les-Oliviers (A7 Coudoux),43.564,5.227,Aix-en-Provence (Les Milles),43.523,5.41,wiki
+A8,1970,Aix-en-Provence (Les Milles),43.523,5.41,Aix-en-Provence (Pont de l'Arc),43.512,5.451,wiki
+A8,1973,Aix-en-Provence (Pont de l'Arc),43.512,5.451,Brignoles,43.42,6.056,knowledge
+A8,1972,Brignoles,43.42,6.056,Le Luc,43.396,6.314,wiki
+A8,1972,Le Luc,43.396,6.314,Fréjus,43.463,6.715,wiki
+A8,1961,Fréjus,43.463,6.715,Mandelieu-la-Napoule,43.545,6.94,wiki
+A8,1961,Mandelieu-la-Napoule,43.545,6.94,Cagnes-sur-Mer,43.66,7.152,wiki
+A8,1964,Cagnes-sur-Mer,43.66,7.152,Nice Saint-Isidore,43.709,7.194,knowledge
+A8,1976,Nice Saint-Isidore,43.709,7.194,Nice-Est,43.732,7.3,knowledge
+A8,1981,Nice-Est,43.732,7.3,La Turbie,43.749,7.39,wiki
+A8,1970,La Turbie,43.749,7.39,Roquebrune-Cap-Martin,43.766,7.45,knowledge
+A8,1969,Roquebrune-Cap-Martin,43.766,7.45,Menton (frontière italienne),43.79,7.521,wiki
+A9,1967,Orange,44.124,4.791,Remoulins,43.923,4.585,knowledge
+A9,1968,Remoulins,43.923,4.585,Nîmes-Ouest,43.8,4.311,knowledge
+A9,1971,Sète,43.465,3.632,Béziers-Est,43.328,3.276,knowledge
+A9,1972,Béziers-Est,43.328,3.276,Narbonne,43.179,3.04,knowledge
+A9,1978,Narbonne,43.179,3.04,Perpignan-Nord,42.749,2.892,wiki
+A9,1971,Perpignan-Nord,42.749,2.892,Le Boulou,42.52,2.819,knowledge
+A9,1977,Le Boulou,42.52,2.819,Le Perthus (frontière espagnole),42.471,2.863,knowledge
+A9,1969,Nîmes-Ouest,43.8,4.311,Baillargues,43.66,4.001,knowledge
+A9,2017,Baillargues,43.66,4.001,Saint-Jean-de-Védas,43.566,3.84,wiki
+A9,1970,Saint-Jean-de-Védas,43.566,3.84,Sète,43.465,3.632,knowledge
+A15,1976,Gennevilliers,48.939,2.295,Argenteuil,48.95,2.28,wiki
+A15,1976,Argenteuil,48.95,2.28,Sannois,48.966,2.257,wiki
+A15,1974,Sannois,48.966,2.257,Franconville,48.982,2.222,wiki
+A15,1976,Franconville,48.982,2.222,Patte d'Oie d'Herblay,48.999,2.177,wiki
+A15,1977,Patte d'Oie d'Herblay,48.999,2.177,Saint-Ouen-l'Aumône (Pontoise),49.035,2.101,wiki
+A34,1976,Charleville-Mézières,49.736,4.72,Donchery (Sedan),49.693,4.908,wiki
+A34,1999,Charleville-Mézières,49.736,4.72,Poix-Terron,49.644,4.586,wiki
+A34,2002,Poix-Terron,49.644,4.586,Faissault,49.584,4.488,wiki
+A34,2003,Faissault,49.584,4.488,Rethel,49.526,4.416,wiki
+A34,1973,Rethel,49.526,4.416,Witry-lès-Reims,49.299,4.133,wiki
+A34,2001,Witry-lès-Reims,49.299,4.133,Reims-est (Croix-Blandin),49.255,4.085,wiki
+A34,2006,Reims-est (Croix-Blandin),49.255,4.085,Cormontreuil,49.219,4.071,wiki
+A34,2010,Cormontreuil,49.219,4.071,Taissy (A4),49.208,4.084,wiki
+A35,1970,Saint-Louis,47.589,7.547,Mulhouse-Nord,47.798,7.394,knowledge
+A35,1970,Mulhouse-Nord,47.798,7.394,Colmar-Sud,48.031,7.372,knowledge
+A35,1971,Colmar-Sud,48.031,7.372,Houssen,48.122,7.366,knowledge
+A35,1971,Guémar,48.216,7.401,Sélestat-Sud,48.257,7.415,knowledge
+A35,2011,Sélestat-Sud,48.257,7.415,Entzheim,48.524,7.612,wiki
+A35,1980,Vendenheim (A4),48.659,7.737,Lauterbourg (frontière allemande),48.964,8.148,knowledge
+A36,1986,Mulhouse,47.755,7.296,Burnhaupt,47.713,7.055,wiki
+A36,1990,Burnhaupt,47.713,7.055,Belfort,47.63,6.87,knowledge
+A36,1992,Belfort,47.63,6.87,Montbéliard,47.5,6.819,knowledge
+A36,1994,Montbéliard,47.5,6.819,L'Isle-sur-le-Doubs,47.42,6.591,knowledge
+A36,1995,L'Isle-sur-le-Doubs,47.42,6.591,Baume-les-Dames,47.353,6.316,knowledge
+A36,1996,Baume-les-Dames,47.353,6.316,Besançon-Est,47.313,6.073,knowledge
+A36,1993,Besançon-Est,47.313,6.073,Besançon-Ouest,47.252,5.907,knowledge
+A36,1988,Besançon-Ouest,47.252,5.907,Dole,47.135,5.483,knowledge
+A36,1991,Dole,47.135,5.483,Beaune,47.057,4.907,knowledge
+A40,1987,Replonges,46.305,4.896,Attignat,46.262,5.171,wiki
+A40,1985,Attignat,46.262,5.171,La Vavrette,46.212,5.295,wiki
+A40,1986,La Vavrette,46.212,5.295,Sylans,46.171,5.74,wiki
+A40,1989,Sylans,46.171,5.74,Châtillon-en-Michaille,46.125,5.798,wiki
+A40,1982,Châtillon-en-Michaille (Bellegarde),46.125,5.798,Annemasse,46.184,6.226,wiki
+A40,1973,Annemasse (Vallard),46.184,6.227,Bonneville,46.067,6.395,wiki
+A40,1974,Bonneville,46.067,6.395,Cluses,46.056,6.578,wiki
+A40,1975,Cluses,46.056,6.578,Sallanches,45.95,6.637,wiki
+A40,1976,Sallanches,45.95,6.637,Passy,45.915,6.684,wiki
+A40,1990,Mâcon (A6),46.347,4.831,Replonges,46.315,4.89,wiki
+A51,1953,Septèmes-les-Vallons,43.406,5.361,Bouc-Bel-Air,43.456,5.4,wiki
+A51,1970,Bouc-Bel-Air,43.456,5.4,Aix-en-Provence,43.518,5.429,wiki
+A51,1985,Aix-en-Provence,43.518,5.429,Pont-de-Mirabeau,43.69,5.691,wiki
+A51,1986,Pont-de-Mirabeau,43.69,5.691,Manosque,43.818,5.826,wiki
+A51,1989,Manosque,43.818,5.826,Aubignosc,44.062,5.963,wiki
+A51,1990,Aubignosc,44.062,5.963,Sisteron-Nord,44.18,5.955,wiki
+A51,1999,Sisteron-Nord,44.18,5.955,La Saulce,44.427,6.014,wiki
+A51,1999,Claix,45.113,5.683,Saint-Martin-de-la-Cluze,44.95,5.654,wiki
+A51,2007,Saint-Martin-de-la-Cluze,44.95,5.654,Col du Fau,44.908,5.626,wiki
+A57,1964,Toulon,43.121,5.953,Tombadou (Toulon-Est),43.138,5.996,wiki
+A57,1969,Tombadou (Toulon-Est),43.138,5.996,La Bigue,43.144,6.028,wiki
+A57,1976,La Bigue,43.144,6.028,Pierre Ronde (La Farlède),43.157,6.044,wiki
+A57,1981,Pierre Ronde (La Farlède),43.157,6.044,Cuers,43.228,6.078,knowledge
+A57,1992,Cuers,43.228,6.078,Le Cannet-des-Maures (A8),43.378,6.352,wiki
+A64,1980,Bayonne (Briscous),43.478,-1.441,Peyrehorade,43.524,-1.14,knowledge
+A64,1981,Peyrehorade,43.524,-1.14,Orthez,43.48,-0.773,knowledge
+A64,1981,Orthez,43.48,-0.773,Pau (Lescar),43.347,-0.427,knowledge
+A64,1983,Pau (Lescar),43.347,-0.427,Tarbes-Ouest,43.22,0.009,knowledge
+A64,1990,Tarbes-Ouest,43.22,0.009,Capvern,43.104,0.336,knowledge
+A64,1991,Capvern,43.104,0.336,Montréjeau,43.098,0.576,knowledge
+A64,1992,Montréjeau,43.098,0.576,Saint-Gaudens,43.123,0.734,knowledge
+A64,1977,Saint-Gaudens,43.123,0.734,Martres-Tolosane,43.202,1.008,knowledge
+A64,1977,Martres-Tolosane,43.202,1.008,Muret,43.468,1.316,knowledge
+A64,1977,Muret,43.468,1.316,Toulouse (périphérique),43.535,1.391,knowledge
+A71,1973,Orléans (A10),47.911,1.849,La Chapelle-Saint-Mesmin,47.888,1.86,wiki
+A71,1980,La Chapelle-Saint-Mesmin,47.888,1.86,Olivet (sortie 2),47.851,1.866,wiki
+A71,1986,Olivet (sortie 2),47.851,1.866,Salbris,47.42,2.02,wiki
+A71,1989,Salbris,47.42,2.02,Bourges,47.027,2.378,wiki
+A71,1989,Bourges,47.027,2.378,Vallon-en-Sully (Forêt de Tronçais),46.51,2.628,wiki
+A71,1988,Vallon-en-Sully (Forêt de Tronçais),46.51,2.628,Montmarault,46.324,2.982,wiki
+A71,1987,Montmarault,46.324,2.982,Clermont-Ferrand,45.783,3.142,wiki
+A72,1975,Nervieux,45.819,4.114,Andrézieux-Bouthéon,45.526,4.288,wiki
+A72,1975,Andrézieux-Bouthéon,45.526,4.288,La Fouillouse (Ratarieux),45.499,4.312,wiki
+A72,1983,La Fouillouse (Ratarieux),45.499,4.312,Saint-Étienne La Terrasse,45.457,4.409,wiki
+A72,1975,Saint-Étienne La Terrasse,45.457,4.409,Saint-Étienne Méons,45.439,4.433,wiki
+A75,1988,Clermont-Ferrand (A71),45.774,3.14,Pérignat-lès-Sarliève,45.719,3.154,wiki
+A75,1978,Pérignat-lès-Sarliève,45.719,3.154,Authezat,45.633,3.192,wiki
+A75,1991,Authezat,45.633,3.192,Issoire-Nord,45.566,3.25,wiki
+A75,1981,Issoire-Nord,45.566,3.25,Issoire-Sud,45.508,3.263,wiki
+A75,1991,Issoire-Sud,45.508,3.263,Lempdes-sur-Allagnon,45.378,3.284,wiki
+A75,1991,Lempdes-sur-Allagnon,45.378,3.284,Massiac,45.257,3.203,wiki
+A75,1991,Massiac,45.257,3.203,Vieillespesse,45.152,3.145,wiki
+A75,1986,Vieillespesse,45.152,3.145,Col de la Fageole,45.095,3.126,wiki
+A75,1991,Col de la Fageole,45.095,3.126,Saint-Flour,45.05,3.112,wiki
+A75,1981,Saint-Flour,45.05,3.112,Saint-Flour-Sud,45.038,3.121,wiki
+A75,1992,Saint-Flour-Sud,45.038,3.121,Loubaresse,44.974,3.187,knowledge
+A75,1994,Loubaresse,44.974,3.187,Aumont-Aubrac,44.726,3.283,wiki
+A75,1996,Aumont-Aubrac,44.726,3.283,Le Buisson,44.695,3.281,wiki
+A75,1994,Le Buisson,44.695,3.281,Le Monastier-Pin-Moriès,44.54,3.257,wiki
+A75,1993,Le Monastier-Pin-Moriès,44.54,3.257,La Canourgue,44.438,3.196,wiki
+A75,1993,La Canourgue,44.438,3.196,Campagnac,44.403,3.169,wiki
+A75,1993,Campagnac,44.403,3.169,Engayresque,44.198,3.066,knowledge
+A75,2004,Engayresque,44.198,3.066,La Cavalerie,44.0,3.16,wiki
+A75,1994,La Cavalerie,44.0,3.16,L'Hospitalet-du-Larzac,43.927,3.237,wiki
+A75,1990,L'Hospitalet-du-Larzac,43.927,3.237,Lodève-Ouest,43.732,3.327,knowledge
+A75,1992,Lodève-Est,43.727,3.327,Clermont-l'Hérault,43.633,3.448,knowledge
+A75,1990,Clermont-l'Hérault,43.633,3.448,Pézenas-Nord,43.501,3.445,knowledge
+A75,1988,Pézenas-Nord,43.501,3.445,Pézenas-Sud,43.446,3.409,wiki
+A75,2010,Pézenas-Sud,43.446,3.409,Béziers (A9),43.351,3.276,wiki
+A75,2005,Lodève-Ouest,43.79,3.326,Lodève-Est,43.685,3.368,wiki
+A79,2022,Montmarault,46.333,2.976,Chemilly,46.497,3.369,wiki
+A79,2022,Chemilly,46.497,3.369,Digoin,46.464,3.982,wiki
+A84,1986,Caen (périphérique sud),49.163,-0.448,Grainville-sur-Odon,49.145,-0.52,wiki
+A84,1991,Grainville-sur-Odon,49.145,-0.52,Villers-Bocage,49.081,-0.64,knowledge
+A84,2003,Villers-Bocage,49.081,-0.64,Torigny-les-Villes,49.002,-0.909,wiki
+A84,1998,Torigny-les-Villes,49.002,-0.909,Villedieu-les-Poêles,48.832,-1.245,knowledge
+A84,1996,Villedieu-les-Poêles,48.832,-1.245,Ponts,48.709,-1.331,knowledge
+A84,1999,Avranches (Pontaubault),48.709,-1.331,Saint-Aubin-du-Cormier,48.261,-1.415,wiki
+A84,1996,Saint-Aubin-du-Cormier,48.261,-1.415,Rennes (Thorigné-Fouillard),48.159,-1.596,knowledge
+A84,1969,Ponts,48.714,-1.324,Avranches (Pontaubault),48.63,-1.34,wiki
+A87,2002,Angers (A11),47.494,-0.498,Cholet-Nord,47.08,-0.825,wiki
+A87,2002,Cholet-Nord,47.08,-0.825,Cholet-Sud,47.03,-0.861,knowledge
+A87,2003,Cholet-Sud,47.03,-0.861,Les Essarts (A83),46.793,-1.237,wiki
+A87,2005,Les Essarts (A83),46.793,-1.237,La Roche-sur-Yon,46.674,-1.344,wiki
+A87,2008,La Roche-sur-Yon,46.674,-1.344,Les Clouzeaux,46.632,-1.473,wiki
+A89,2001,Libourne-Sud,44.903,-0.266,Mussidan,45.023,0.391,wiki
+A89,2004,Mussidan,45.023,0.391,Périgueux-Est,45.153,0.812,wiki
+A89,2004,Périgueux-Est,45.153,0.812,Thenon,45.155,1.07,wiki
+A89,2008,Thenon,45.155,1.07,Terrasson-Lavilledieu,45.166,1.283,wiki
+A89,2006,Terrasson-Lavilledieu,45.166,1.283,Brive-Nord,45.189,1.485,wiki
+A89,2015,Brive-Nord (A20),45.189,1.485,Saint-Germain-les-Vergnes,45.297,1.593,wiki
+A89,2003,Saint-Germain-les-Vergnes,45.297,1.593,Tulle-Est,45.306,1.82,wiki
+A89,2002,Tulle-Est,45.306,1.82,Ussel-Ouest,45.516,2.29,wiki
+A89,2000,Ussel-Ouest,45.516,2.29,Saint-Julien-Sancy,45.673,2.684,wiki
+A89,2006,Saint-Julien-Sancy,45.673,2.684,Combronde,45.975,3.083,wiki
+A89,1987,Combronde,45.975,3.083,Clermont-Ferrand (Gerzat),45.827,3.158,wiki
+A89,1978,Clermont-Ferrand-Est,45.808,3.159,Lussat,45.832,3.291,wiki
+A89,1978,Lussat,45.832,3.291,Thiers-Ouest,45.857,3.484,wiki
+A89,1977,Thiers-Ouest,45.857,3.484,Chabreloche,45.877,3.685,wiki
+A89,1984,Chabreloche,45.877,3.685,Noirétable,45.847,3.761,knowledge
+A89,1985,Noirétable,45.847,3.761,Nervieux,45.838,4.17,wiki
+A89,2012,Nervieux,45.838,4.17,Balbigny,45.84,4.185,knowledge
+A89,2013,Balbigny,45.84,4.185,La Tour-de-Salvagny,45.82,4.72,wiki
+A89,2018,La Tour-de-Salvagny,45.82,4.72,Limonest,45.837,4.751,wiki
+A89,1991,Beychac-et-Caillau (début A89),44.874,-0.286,Libourne-Sud,44.903,-0.266,knowledge
+A104,1980,Roissy-en-France (A1),48.971,2.484,Villepinte (A3),48.961,2.543,wiki
+A104,1985,Villepinte (A3),48.961,2.543,Tremblay-en-France,48.976,2.582,knowledge
+A104,2023,Tremblay-en-France,48.976,2.582,Claye-Souilly,48.942,2.628,wiki
+A104,1993,Claye-Souilly,48.942,2.628,Collégien (A4),48.83,2.666,knowledge
+A132,1976,Touques (Deauville),49.313,0.145,Pont-l'Évêque (A13),49.287,0.207,knowledge
+A154,1997,Incarville (A13),49.181,1.17,Léry (A13),49.248,1.182,wiki
+A211,1976,Lens-Est (A21),50.431,2.851,Lens-Sud,50.417,2.822,knowledge
+A304,2018,La Chattoire (A34),49.716,4.701,Le Piquet,49.784,4.602,wiki
+A304,2017,Le Piquet,49.784,4.602,Rocroi,49.917,4.526,wiki
+A313,1976,Dieulouard,48.895,6.074,Pont-à-Mousson (A31),48.886,6.092,knowledge
+A320,1971,Saint-Avold (A4),49.138,6.799,Forbach (frontière allemande),49.204,6.958,wiki
+A355,2021,Duttlenheim (A352),48.543,7.578,Vendenheim (A4),48.67,7.685,wiki
+A430,1991,Albertville,45.564,6.211,Gilly-sur-Isère (A43),45.65,6.344,wiki
+A450,1966,Brignais,45.671,4.771,Givors (A47),45.697,4.834,wiki
+A520,1995,Auriol,43.348,5.617,Gémenos,43.367,5.646,knowledge
+A557,1974,Marseille Prado,43.317,5.364,Marseille (A55),43.323,5.378,wiki
+A620,1972,Toulouse-Nord (Fenouillet),43.653,1.425,Toulouse-Purpan,43.6,1.397,knowledge
+A620,1980,Toulouse-Purpan,43.6,1.397,Toulouse-Rangueil,43.572,1.462,knowledge
+A620,1995,Toulouse-Rangueil,43.572,1.462,Toulouse (A64 / ONIA),43.544,1.502,wiki
+A641,1994,Peyrehorade (A64 sortie 6),43.562,-1.14,Orthevielle,43.523,-1.101,wiki
+A813,2012,Banneville-la-Campagne (A13),49.136,-0.231,Cagny (RD 613),49.168,-0.244,wiki
+A844,1993,Nantes-Ouest,47.258,-1.622,Nantes-Est,47.266,-1.587,wiki
+A5,1995,Francilienne (Lieusaint),48.594,2.64,Melun (A105),48.56,2.7,wiki
+A5,1993,Melun (A105),48.56,2.7,Sens,48.225,3.3,wiki
+A5,1994,Sens,48.225,3.3,Troyes,48.235,4.1,wiki
+A5,1990,Troyes,48.235,4.1,Semoutiers (Chaumont),48.045,5.04,wiki
+A5,1983,Semoutiers (Chaumont),48.045,5.04,Langres (Beauchemin),47.906,5.223,wiki
+A7,1951,Les Pennes-Mirabeau,43.405,5.315,Marseille Saint-Gabriel,43.322,5.395,wiki
+A7,1970,Marseille Saint-Gabriel,43.322,5.395,Marseille Porte d'Aix,43.305,5.38,knowledge
+A7,1970,Sénas,43.745,5.065,Les Pennes-Mirabeau,43.405,5.315,wiki
+A7,1969,Avignon-Sud (Bonpas),43.89,4.915,Sénas,43.745,5.065,wiki
+A7,1965,Courthézon,44.1,4.88,Avignon-Sud (Bonpas),43.89,4.915,wiki
+A7,1964,Piolenc,44.185,4.79,Courthézon,44.1,4.88,wiki
+A7,1968,Montélimar-Nord,44.585,4.745,Piolenc,44.185,4.79,wiki
+A7,1966,Valence-Sud,44.89,4.88,Montélimar-Nord,44.585,4.745,wiki
+A7,1963,Valence-Nord,44.95,4.89,Valence-Sud,44.89,4.88,wiki
+A7,1965,Chanas,45.31,4.805,Valence-Nord,44.95,4.89,wiki
+A7,1963,Reventin-Vaugris,45.44,4.83,Chanas,45.31,4.805,wiki
+A7,1959,Vienne-Sud,45.5,4.865,Reventin-Vaugris,45.44,4.83,wiki
+A7,1974,Vienne-Nord,45.54,4.87,Vienne-Sud,45.5,4.865,wiki
+A7,1965,La Mulatière (Lyon),45.725,4.815,Vienne-Nord,45.54,4.87,wiki
+A7,1968,Lyon Perrache,45.745,4.825,La Mulatière (Lyon),45.725,4.815,wiki
+A14,1996,La Défense (Nanterre),48.896,2.226,Orgeval (A13),48.926,1.998,wiki
+A23,1978,Lesquin (A27),50.6,3.135,Valenciennes (A2),50.34,3.497,wiki
+A26,1992,Calais (A16),50.935,1.915,Saint-Omer,50.73,2.26,knowledge
+A26,1991,Saint-Omer,50.73,2.26,Lillers,50.56,2.49,knowledge
+A26,1989,Lillers,50.56,2.49,Arras (A1),50.3,2.87,knowledge
+A26,1988,Arras (A1),50.3,2.87,Marquion (A2),50.175,3.16,knowledge
+A26,1987,Marquion (A2),50.175,3.16,Saint-Quentin (A29),49.835,3.275,knowledge
+A26,1982,Saint-Quentin (A29),49.835,3.275,Laon,49.55,3.65,knowledge
+A26,1981,Laon,49.55,3.65,Reims (A4),49.285,4.055,knowledge
+A26,1976,Châlons-en-Champagne (A4),48.975,4.3,Sommesous,48.73,4.2,knowledge
+A26,1978,Sommesous,48.73,4.2,Troyes (A5),48.25,4.12,knowledge
+A27,1973,Villeneuve-d'Ascq (Quatre-Cantons),50.601,3.123,Belgian border (Baisieux),50.604,3.275,wiki
+A28,1992,Abbeville (A16),50.131,1.827,Neufchâtel-en-Bray (A29),49.73,1.49,knowledge
+A28,1994,Neufchâtel-en-Bray (A29),49.73,1.49,Rouen Nord (Quincampoix),49.535,1.12,knowledge
+A28,2005,Bourg-Achard (A13),49.35,0.82,Alençon,48.44,0.1,wiki
+A28,1990,Alençon,48.44,0.1,Le Mans (A11),48.04,0.2,knowledge
+A28,1991,Le Mans (A11),48.04,0.2,Écommoy,47.83,0.27,knowledge
+A28,2005,Écommoy,47.83,0.27,Tours (A10),47.467,0.69,knowledge
+A41,1967,Grenoble,45.201,5.759,Le Touvet,45.355,5.95,wiki
+A41,1976,Le Touvet,45.355,5.95,Pontcharra,45.43,6.015,wiki
+A41,1978,Pontcharra,45.43,6.015,Francin (A43),45.505,6.02,wiki
+A41,1975,Annecy-Sud,45.86,6.08,Saint-Félix,45.8,5.98,wiki
+A41,1977,Saint-Félix,45.8,5.98,Chambéry-Nord,45.61,5.925,wiki
+A41,1978,Annecy-Sud,45.86,6.08,Annecy-Nord,45.935,6.105,wiki
+A41,1979,Annecy-Nord,45.935,6.105,Villy-le-Pelloux,45.99,6.12,wiki
+A41,2008,Villy-le-Pelloux,45.99,6.12,Saint-Julien-en-Genevois,46.146,6.085,wiki
+A42,1976,Lyon (Vaulx-en-Velin),45.784,4.893,Neyron,45.835,4.96,knowledge
+A42,1983,Neyron,45.835,4.96,Chazey-sur-Ain,45.9,5.26,wiki
+A42,1988,Chazey-sur-Ain,45.9,5.26,Pont-d'Ain,46.064,5.328,wiki
+A43,1973,Lyon (Bron),45.73,4.93,Bourgoin-Jallieu,45.59,5.27,wiki
+A43,1974,Bourgoin-Jallieu,45.59,5.27,Chambéry-Nord,45.6,5.89,wiki
+A43,1978,Chambéry,45.595,5.895,Francin (A41),45.505,6.02,wiki
+A43,1989,Francin (A41),45.505,6.02,Montmélian,45.5,6.065,wiki
+A43,1991,Montmélian,45.5,6.065,Aiton,45.54,6.28,wiki
+A43,1997,Aiton,45.54,6.28,Sainte-Marie-de-Cuines,45.31,6.34,wiki
+A43,1998,Sainte-Marie-de-Cuines,45.31,6.34,Saint-Michel-de-Maurienne,45.22,6.47,wiki
+A43,2000,Saint-Michel-de-Maurienne,45.22,6.47,Freney (Fréjus),45.19,6.67,wiki
+A48,1967,Grenoble (Saint-Égrève),45.216,5.68,Voreppe,45.285,5.625,wiki
+A48,1975,Voreppe,45.285,5.625,Coiranne (A43),45.566,5.346,wiki
+A50,1962,Marseille,43.283,5.398,Aubagne,43.285,5.575,wiki
+A50,1977,Aubagne,43.285,5.575,La Ciotat,43.18,5.64,knowledge
+A50,1980,La Ciotat,43.18,5.64,Bandol,43.14,5.75,knowledge
+A50,1982,Bandol,43.14,5.75,Toulon,43.121,5.954,knowledge
+A52,1974,Aubagne,43.278,5.586,Roquevaire,43.345,5.607,knowledge
+A52,1976,Roquevaire,43.345,5.607,Auriol,43.375,5.63,knowledge
+A52,1978,Auriol,43.375,5.63,Pas-de-Trets (A8),43.48,5.563,knowledge
+A68,1992,Toulouse (périphérique),43.638,1.479,Saint-Sulpice,43.775,1.7,knowledge
+A68,1996,Saint-Sulpice,43.775,1.7,Gaillac,43.89,1.91,knowledge
+A68,1997,Gaillac,43.89,1.91,Marssac-sur-Tarn,43.913,2.052,wiki
+A69,1996,A68 (sortie 2),43.686,1.562,Verfeil,43.642,1.664,wiki
+A69,2026,Verfeil,43.642,1.664,Castres,43.62,2.23,wiki
+A77,1996,A6 (Nemours),48.228,2.762,Dordives,48.14,2.77,wiki
+A77,1999,Dordives,48.14,2.77,Briare,47.635,2.745,wiki
+A77,2000,Briare,47.635,2.745,Cosne-Cours-sur-Loire,47.41,2.93,wiki
+A77,2002,Cosne-Cours-sur-Loire,47.41,2.93,Pouilly-sur-Loire,47.27,2.96,knowledge
+A77,2012,Pouilly-sur-Loire,47.27,2.96,Pougues-les-Eaux,47.085,3.1,wiki
+A77,2004,Pougues-les-Eaux,47.085,3.1,Nevers-Sud,46.957,3.173,wiki
+A81,1980,Le Mans (A11),48.04,0.137,La Gravelle,48.084,-1.045,wiki
+A83,1978,Nantes,47.132,-1.508,Montaigu,46.975,-1.31,knowledge
+A83,1990,Montaigu,46.975,-1.31,Oulmes,46.43,-0.76,knowledge
+A83,2001,Oulmes,46.43,-0.76,Niort (A10),46.345,-0.3,wiki
+A86,1970,Fresnes (A6),48.755,2.325,Thiais,48.765,2.385,knowledge
+A86,1985,Thiais,48.765,2.385,Créteil,48.775,2.455,wiki
+A86,1981,Créteil,48.775,2.455,Saint-Maurice (A4),48.815,2.445,wiki
+A86,1989,Saint-Maurice (A4),48.815,2.445,Rosny-sous-Bois (A3),48.885,2.49,wiki
+A86,1974,Rosny-sous-Bois (A3),48.885,2.49,Bondy,48.905,2.5,wiki
+A86,1978,Bondy,48.905,2.5,La Courneuve,48.925,2.405,knowledge
+A86,1988,La Courneuve,48.925,2.405,Saint-Denis,48.935,2.36,knowledge
+A86,1992,Saint-Denis,48.935,2.36,Gennevilliers,48.935,2.3,knowledge
+A86,2003,Gennevilliers,48.935,2.3,Nanterre (A14),48.9,2.215,wiki
+A86,1993,Nanterre (A14),48.9,2.215,Rueil-Malmaison,48.87,2.17,knowledge
+A86,2009,Rueil-Malmaison,48.87,2.17,Vaucresson (A13),48.835,2.15,wiki
+A86,2011,Vaucresson (A13),48.835,2.15,Pont Colbert (Jouy-en-Josas),48.79,2.146,wiki
+A86,1992,Pont Colbert (Jouy-en-Josas),48.79,2.146,Fresnes (A6),48.755,2.325,knowledge
+A126,1976,Chilly-Mazarin,48.709,2.308,Palaiseau,48.72,2.225,wiki
+A139,1970,Oissel (A13),49.343,1.056,Grand-Couronne (RN138),49.363,1.038,wiki
+A216,1992,Calais (A26),50.935,1.907,Calais Port,50.955,1.906,knowledge
+A315,1984,Marly (Metz),49.12,6.234,Metz-Sud,49.141,6.246,wiki
+A406,2011,A40 (Replonges),46.286,4.783,Charnay-lès-Mâcon,46.294,4.91,wiki
+A410,1981,Villy-le-Pelloux,45.986,6.128,Scientrier (A40),46.12,6.328,wiki
+A432,1975,A43 (Poulieu-Sud),45.673,5.1,Saint-Laurent-de-Mure,45.705,5.075,wiki
+A432,1991,La Boisse (A42),45.838,5.05,Villette-d'Anthon,45.76,5.09,wiki
+A432,2003,Villette-d'Anthon,45.76,5.09,Saint-Laurent-de-Mure,45.705,5.075,wiki
+A432,2011,Les Échets (A46),45.866,4.912,La Boisse (A42),45.838,5.05,wiki
+A466,2015,A46 (Neuville-sur-Saône),45.891,4.734,Anse (A6),45.926,4.759,wiki
+A501,1974,Aubagne (A52),43.288,5.544,Gémenos (A50),43.322,5.595,knowledge
+A621,2001,Toulouse (A620 Sept-Deniers),43.624,1.418,Blagnac (A620),43.631,1.382,wiki
+A711,1992,Clermont-Ferrand,45.775,3.14,Pont-du-Château,45.829,3.234,knowledge
+A719,1997,A71 (Gannat),46.098,3.136,Gannat-Nord,46.108,3.2,wiki
+A719,2015,Gannat-Nord,46.108,3.2,Espinasse-Vozelle (Vichy),46.129,3.363,wiki
